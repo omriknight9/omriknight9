@@ -1,4 +1,4 @@
-Hi there, I'm Omri Shalev 👋
+<h1>Hi there, I'm Omri Shalev 👋</h1>
 
 [![Website](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://omriknight9.github.io/Portfolio/)](https://omriknight9.github.io/Portfolio/)
 
