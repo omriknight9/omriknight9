@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Omri Shalev 👋</h2>
 
-<a target="_blank" href="https://omriknight9.github.io/Portfolio/" rel="noopener"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://omriknight9.github.io/Portfolio/&up_message=go"></a>
+<a href="https://omriknight9.github.io/Portfolio/" target="_blank"  rel="noopener"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://omriknight9.github.io/Portfolio/&up_message=go"></a>
 
 ## I'm a Front-End Developer
 
