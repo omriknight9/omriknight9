@@ -2,6 +2,8 @@
 
 <a href="https://omriknight9.github.io/Portfolio/" target="_blank"  rel="noopener"><img src="https://img.shields.io/website?label=Portfolio&style=flat&url=https://omriknight9.github.io/Portfolio/&up_message=Go&logo=read-the-docs"></a>
 
+<a href="https://omriknight9.github.io/omris-movies/" target="_blank"  rel="noopener"><img src="https://img.shields.io/website?label=MovieInfo&style=flat&url=https://omriknight9.github.io/omris-movies/&up_message=Go&logo=tmdb"></a>
+
 ## I'm a Front-End Developer
 
 - 🔭 I’m currently working as a Front-End Developer at 011Global
