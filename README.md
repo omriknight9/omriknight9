@@ -2,7 +2,7 @@
 
 <!-- <a target="_blank">[![Website](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://omriknight9.github.io/Portfolio/)]</a>(https://omriknight9.github.io/Portfolio/) -->
 
-<a target="_blank" href="https://omriknight9.github.io/Portfolio/"><img src="https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://omriknight9.github.io/Portfolio/"></a>
+<a target="_blank" href="https://omriknight9.github.io/Portfolio/" rel="noopener"><img src="https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://omriknight9.github.io/Portfolio/"></a>
 
 ## I'm a Front-End Developer
 
