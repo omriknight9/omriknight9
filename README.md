@@ -6,7 +6,7 @@
 
 ## I'm a Front-End Developer
 
-- 🔭 I’m currently working as a Front-End Developer at 011Global
+- 🔭 I’m currently working as a Front-End Developer at Bezeq
 - ⚡ I’m currently learning React courses with Udemy
 
 ### Connect with me:
